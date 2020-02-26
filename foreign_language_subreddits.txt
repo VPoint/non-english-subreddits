@@ -140,6 +140,7 @@
 /r/fragreddit
 /r/france
 /r/francesinhas
+/r/francophonie
 /r/frankfurt
 /r/freiburg
 /r/fremdscham
@@ -268,6 +269,7 @@
 /r/norge
 /r/notargentinar
 /r/noticias
+/r/nouvelles
 /r/ntnu
 /r/oaxaca
 /r/obitcoin
@@ -280,6 +282,7 @@
 /r/oslo
 /r/panama
 /r/paraguay
+/r/paslegorafi
 /r/peru
 /r/photosmontreal
 /r/pietsmiet
@@ -334,6 +337,7 @@
 /r/schland
 /r/schleswigholstein
 /r/schweiz
+/r/sciencefr
 /r/seilbahn
 /r/self_de
 /r/serbia

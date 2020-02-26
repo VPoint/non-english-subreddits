@@ -153,6 +153,7 @@ Users  are  encouraged  to  create  a  PR  if  they  have  foreign  language  su
 /r/fragreddit
 /r/france
 /r/francesinhas
+/r/francophonie
 /r/frankfurt
 /r/freiburg
 /r/fremdscham
@@ -281,6 +282,7 @@ Users  are  encouraged  to  create  a  PR  if  they  have  foreign  language  su
 /r/norge
 /r/notargentinar
 /r/noticias
+/r/nouvelles
 /r/ntnu
 /r/oaxaca
 /r/obitcoin
@@ -293,6 +295,7 @@ Users  are  encouraged  to  create  a  PR  if  they  have  foreign  language  su
 /r/oslo
 /r/panama
 /r/paraguay
+/r/paslegorafi
 /r/peru
 /r/photosmontreal
 /r/pietsmiet
@@ -347,6 +350,7 @@ Users  are  encouraged  to  create  a  PR  if  they  have  foreign  language  su
 /r/schland
 /r/schleswigholstein
 /r/schweiz
+/r/sciencefr
 /r/seilbahn
 /r/self_de
 /r/serbia
